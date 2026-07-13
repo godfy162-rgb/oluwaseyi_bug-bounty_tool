@@ -38,7 +38,7 @@ Recon methodology · CORS/XSS/SQLi/IDOR analysis · Static JS analysis · Report
 
 | [path-scanner](https://github.com/godfy162-rgb/path_scanner.git) | Multi-threaded hidden path/directory discovery against a target domain | Python |
 
-| [port-scanner](link) | Port scanner with banner grabbing and offline CVE cross-referencing | Python |
+| [port-scanner](https://github.com/godfy162-rgb/port_scanner.git) | Port scanner with banner grabbing and offline CVE cross-referencing | Python |
 
 | [wifi-scanner](link) | Wi-Fi network scanner for nearby SSIDs, signal strength, and security config | Python |
 
