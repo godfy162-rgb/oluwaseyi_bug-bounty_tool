@@ -42,6 +42,8 @@ Recon methodology · CORS/XSS/SQLi/IDOR analysis · Static JS analysis · Report
 
 | [wifi-capture](https://github.com/godfy162-rgb/wifi-capture-.git) | Wi-Fi network scanner for nearby SSIDs, signal strength, and security config | Python |
 
+| [discover-vuln](https://github.com/godfy162-rgb/discover-vuln.git) | Scan for vulneraiblity like SQL, XSS, CORS, Ddos, CSRF, SSL and get location the vulnerability was discovered | python |
+
 > Each repo above has its own README with setup instructions and usage examples.
 
 ---
