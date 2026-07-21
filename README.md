@@ -40,7 +40,7 @@ Recon methodology · CORS/XSS/SQLi/IDOR analysis · Static JS analysis · Report
 
 | [port-scanner](https://github.com/godfy162-rgb/port_scanner.git) | Port scanner with banner grabbing and offline CVE cross-referencing | Python |
 
-| [wifi-scanner](link) | Wi-Fi network scanner for nearby SSIDs, signal strength, and security config | Python |
+| [wifi-capture](https://github.com/godfy162-rgb/wifi-capture-.git) | Wi-Fi network scanner for nearby SSIDs, signal strength, and security config | Python |
 
 > Each repo above has its own README with setup instructions and usage examples.
 
