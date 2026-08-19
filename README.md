@@ -23,29 +23,29 @@ I'm currently documenting a public **#100DaysOfEthicalHacking** journey on Linke
 
 ## Skills
 
-`Current emphasis    Shift toward
+`Current emphasis-    Shift toward
 
-Kali Linux           Linux administration + security fundamentals
+Kali Linux-           Linux administration + security fundamentals
 
-Nmap                 Network reconnaissance and enumeration methodology
+Nmap-                 Network reconnaissance and enumeration methodology
 
-Wireshark            TCP/IP and protocol analysis
+Wireshark-            TCP/IP and protocol analysis
 
-Burp Suite           Web application security methodology
+Burp Suite-           Web application security methodology
 
-SQLi/XSS/CORS        Understanding root causes, exploitation, and impact
+SQLi/XSS/CORS-        Understanding root causes, exploitation, and impact
 
-Python tools         Security engineering and automation
+Python tools-         Security engineering and automation
 
-Bug bounty           Vulnerability research + responsible disclosure
+Bug bounty-           Vulnerability research + responsible disclosure
 
-CTFs                 Hypothesis-driven problem solving
+CTFs-                 Hypothesis-driven problem solving
 
-OSINT                Reconnaissance + intelligence analysis
+OSINT-                Reconnaissance + intelligence analysis
 
-Metasploit           Understanding exploitation rather than tool usage
+Metasploit-           Understanding exploitation rather than tool usage
 
-Lots of tools        Fewer, deeper projects`
+Lots of tools-        Fewer, deeper projects`
 
 ---
 
