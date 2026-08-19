@@ -23,8 +23,29 @@ I'm currently documenting a public **#100DaysOfEthicalHacking** journey on Linke
 
 ## Skills
 
-`Python` `Burp Suite` `Metasploit` `Nmap` `Wireshark` `Subfinder` `HTTPX`
-Recon methodology · CORS/XSS/SQLi/IDOR analysis · Static JS analysis · Report writing
+`Current emphasis    Shift toward
+
+Kali Linux           Linux administration + security fundamentals
+
+Nmap                 Network reconnaissance and enumeration methodology
+
+Wireshark            TCP/IP and protocol analysis
+
+Burp Suite           Web application security methodology
+
+SQLi/XSS/CORS        Understanding root causes, exploitation, and impact
+
+Python tools         Security engineering and automation
+
+Bug bounty           Vulnerability research + responsible disclosure
+
+CTFs                 Hypothesis-driven problem solving
+
+OSINT                Reconnaissance + intelligence analysis
+
+Metasploit           Understanding exploitation rather than tool usage
+
+Lots of tools        Fewer, deeper projects`
 
 ---
 
@@ -44,6 +65,7 @@ Recon methodology · CORS/XSS/SQLi/IDOR analysis · Static JS analysis · Report
 
 | [discover-vuln](https://github.com/godfy162-rgb/discover-vuln.git) | Scan for vulneraiblity like SQL, XSS, CORS, Ddos, CSRF, SSL and get location the vulnerability was discovered | python |
 
+| [vulnscanner](https://github.com/godfy162-rgb/vulnscanner.git) | Run HTTP request, Concurrency, DNS, redirects, TLS, response parsing, authentication handling, rate limiting, retries, logging, configuration, error handling, CLi design, testing, modular architecture. with a single command 
  
 ---
 
